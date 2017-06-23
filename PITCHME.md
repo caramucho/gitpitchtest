@@ -7,4 +7,4 @@ git pitch test
 
 ### second page
 
----?image=chart.png&size=contain
+---?image=chart.png&size=auto 90%
