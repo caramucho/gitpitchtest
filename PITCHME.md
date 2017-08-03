@@ -10,7 +10,7 @@ git pitch test
 ---?image=chart.png&size=auto 90%
 
 ---
-### third page
+### math
 
 $$t_{delay} = t _{arrival} - t_{send}\\
 t_{Segment Fetch Time}=\sum t_{delay}\\
