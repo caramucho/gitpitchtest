@@ -12,8 +12,10 @@ git pitch test
 ---
 ### math
 
-$$t_{delay} = t _{arrival} - t_{send}\\
+$$
+t_{delay} = t _{arrival} - t_{send}\\
 t_{Segment Fetch Time}=\sum t_{delay}\\
-Segment Avg Bitrate = \frac{0.5 \times 8  \times SegmentSize}{t_{Segment Fetch Time}}$$
+Segment Avg Bitrate = \frac{0.5 \times 8  \times SegmentSize}{t_{Segment Fetch Time}}
+$$
 
 
